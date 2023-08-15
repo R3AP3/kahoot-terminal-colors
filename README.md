@@ -4,9 +4,10 @@ Terminal Color Scheme in the Official Kahoot Color Scheme. Its pretty chill ngl.
 Configurations Available for:
 - Kitty
 - wezterm
+- Windows Terminal
 - Alacritty [***Untested***]
 - iTerm2 [***Untested***]
-- Windows Terminal [***Untested***]
+
 
 ## Color Table:
 #### Default:
